@@ -11,5 +11,8 @@
     "url": "(http://github.com/Muntahasiddique/nodejs-basics.git)"
   },
   "author": "muntaha siddique",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
 }
