@@ -1,0 +1,15 @@
+{
+  "name": "udemy-nodejs",
+  "version": "1.0.0",
+  "description": "getting started with express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(http://github.com/Muntahasiddique/nodejs-basics.git)"
+  },
+  "author": "muntaha siddique",
+  "license": "ISC"
+}
